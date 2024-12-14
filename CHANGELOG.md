@@ -1,5 +1,12 @@
 # Changelog
 
+## [21.4.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.4.0...v21.4.1) (2024-12-14)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE200_p3dbf6qs` as AVATTO ME167 https://github.com/Koenkk/zigbee-herdsman-converters/issues/8474 ([3b081b7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3b081b742fd3c81eef34efe9b369f6e8d30464b7))
+
 ## [21.4.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.3.0...v21.4.0) (2024-12-13)
 
 
